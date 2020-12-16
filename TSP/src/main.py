@@ -1,6 +1,5 @@
 from instancesReading import InstancesReading as ir
 from distances import Distances as dist
-from general import General as ge
 import menu
 import sys
 
