@@ -1,6 +1,5 @@
 from instancesReading import InstancesReading as ir
 from distances import Distances as dist
-import menu
 import experiment as ex
 import sys
 
